@@ -1,6 +1,6 @@
 class
 =====
 
-A simple Repo for the class
+This class is the bomb!
 
 This is an edit.
