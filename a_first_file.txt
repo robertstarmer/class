@@ -3,5 +3,9 @@ This is a file!
 It has some text in it.
 
 And I tweaked it again.
+<<<<<<< HEAD
+-dcr
+=======
 
 Let's tweak some more.
+>>>>>>> 3eb1bf9c89f0d154f279cb5e193a7ea471878b49
